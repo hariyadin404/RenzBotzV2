@@ -1,0 +1,18 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": false,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6288989032817",
+	"ownerNumberr": "6288989032817",
+	"cr": "@Ryen",
+	"ownername": "Ryen",
+	"botname":"RenBot",
+	"thumb":"thumbnail_1.jpg",
+	"fakethumb":"thumbnail_2.jpg", 
+	"fake": " 「  RenBot  」\nCreated By @Ryen"
+}
